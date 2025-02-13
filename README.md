@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=%20%Leen%20&fontSize=50&animation=scaleIn&fontAlignY=35&desc=EpicGame%&descSize=15&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=%20%Leen%20&fontSize=50&animation=scaleIn&fontAlignY=35&desc=EpicGames%&descSize=15&descAlignY=55&descAlign=50)
 <div align="center">
 
 
